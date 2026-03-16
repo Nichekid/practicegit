@@ -13,7 +13,9 @@ Todo in terminal:
 - [x] add changes
 - [x] commit and name commit
 - [x] push changes to remote repo
+- [x] merge branch
 - [x] pull changes
+
  
 <hr>
 
