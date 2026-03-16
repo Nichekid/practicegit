@@ -18,4 +18,4 @@ Todo in terminal:
 <hr>
 
 > [!TIP]
-> I dont know what I'm doing. :+1:
+> I dont know what I'm doing. But I'm slowly learning how to do it. :+1:
