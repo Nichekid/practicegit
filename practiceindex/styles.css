@@ -1,3 +1,7 @@
+h1, h2 {
+    text-shadow: 0 0 5px #56458c;
+}
+
 body {
     background-color: #888888;
     font-family: Arial, sans-serif;
@@ -6,16 +10,19 @@ body {
 p {
     color: rgb(10, 10, 239);
     text-align: center;
+    
 }
 
 img {
     padding-bottom: 20px;
+    
 }
 
 nav {
     background-color: #333333;
     color: white;
     padding: 10px;
+    
 }
  a {
     color: white;
@@ -32,6 +39,7 @@ footer {
 }
 footer p {
     color: white;
+    text-shadow: 0 0 5px #ebe9ef;
 }
 
 
